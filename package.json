@@ -4,7 +4,9 @@
   "description": "Add local libraries to the Next.js build",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "changeset": "changeset",
+    "ci:version": "changeset version",
+    "ci:release": "changeset publish"
   },
   "repository": {
     "type": "git",
