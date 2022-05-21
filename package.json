@@ -8,6 +8,9 @@
     "ci:version": "changeset version",
     "ci:release": "changeset publish"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/admmasters/next-plugin-aliases.git"
