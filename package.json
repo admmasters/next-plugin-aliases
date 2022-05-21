@@ -1,6 +1,6 @@
 {
   "name": "next-plugin-aliases",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add local libraries to the Next.js build",
   "main": "index.js",
   "scripts": {
