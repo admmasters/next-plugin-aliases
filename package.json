@@ -1,6 +1,6 @@
 {
   "name": "next-plugin-aliases",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Add local libraries to the Next.js build",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/admmasters/next-plugin-aliases/issues"
   },
-  "homepage": "https://github.com/admmasters/next-plugin-aliases#readme"
+  "homepage": "https://github.com/admmasters/next-plugin-aliases#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.22.0"
+  }
 }
